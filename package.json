@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@vercel/workflow": "^1.0.0"
+    "@vercel/workflow": "github:xploitscout/workflow#main"
   }
 }
