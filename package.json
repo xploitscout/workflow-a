@@ -1,8 +1,5 @@
 {
   "name": "workflow-a",
   "private": true,
-  "type": "module",
-  "dependencies": {
-    "@vercel/workflow": "github:xploitscout/workflow#main"
-  }
+  "type": "module"
 }
