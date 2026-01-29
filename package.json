@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@vercel/workflow": "latest"
+    "@vercel/workflow": "^1.0.0"
   }
 }
